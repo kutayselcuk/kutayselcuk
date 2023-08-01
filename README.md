@@ -13,4 +13,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   , I'm Kutay
 </h1>
+<h3 align="center">An Industrial Engineer who is interested in Data Science from Turkey</h3>
 
+### :woman_technologist: About Me :
+
+- :telescope: I’m currently working on Ctrl+ Future.
+
+- :seedling: Exploring Python, SQL, Google Cloud, MS Azure.
+
+- :zap: In my free time, I work on my research project.
+
+- :mailbox:How to reach me: **kutay.selcuk@ozu.edu.tr**
